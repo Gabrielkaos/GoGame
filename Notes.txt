@@ -1,0 +1,9 @@
+
+Rules:
+    black plays first
+    take turns placing stones
+    if a piece has no liberties it will be captured
+    the game ends with the winner with the player with bigger territory
+    you cannot move to a square where you repeat a position
+
+
